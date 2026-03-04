@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+pytest
+mlflow
+pyyaml
+dvc
+dagshub
+dvc-s3
